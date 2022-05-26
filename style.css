@@ -16,7 +16,7 @@ html{
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-    background: #888;
+    background: crimson;
 }
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/principal.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
