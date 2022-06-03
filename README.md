@@ -22,8 +22,6 @@
   <img src="https://raw.githubusercontent.com/LimaDev-Max/Novo-Portifolio-update/main/videos/ezgif.com-gif-maker.gif">
 </p>
 
-<img src="images/portifolio.png">
-
 <div align="center">
     <img alingn="center"  width="140" src="https://github.com/LimaDev-Max/LimaDev-Max/blob/main/.github/giphy.gif?raw=true">
 </div>
