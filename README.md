@@ -15,11 +15,14 @@
 <a href="https://www.linkedin.com/in/f%C3%A1bio-lima-9ab650217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Layout 
-<img src="images/portifolio.png">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LimaDev-Max/Novo-Portifolio-update/main/videos/ezgif.com-gif-maker.gif">
 </p>
+
+<img src="images/portifolio.png">
+
+
 
 
 
