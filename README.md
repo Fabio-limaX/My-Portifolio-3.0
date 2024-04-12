@@ -12,7 +12,7 @@
 
 <a href="https://www.instagram.com/felipe_0ficial/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/f%C3%A1bio-lima-9ab650217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 <p>Acesse outros Projetos <a href="https://github.com/LimaDev-Max?tab=repositories" target="_blank">aqui</a>.</p>
 
