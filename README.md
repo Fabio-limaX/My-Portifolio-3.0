@@ -15,7 +15,7 @@
 
 <p>Acesse outros Projetos <a href="https://github.com/LimaDev-Max?tab=repositories" target="_blank">aqui</a>.</p>
 
-## Layout 
+ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LimaDev-Max/Novo-Portifolio-update/main/videos/ezgif.com-gif-maker.gif">
